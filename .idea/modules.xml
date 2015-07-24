@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Camera2Basic Blinking.iml" filepath="$PROJECT_DIR$/Camera2Basic Blinking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pngj-2.1.1/pngj-2.1.1.iml" filepath="$PROJECT_DIR$/pngj-2.1.1/pngj-2.1.1.iml" />
+    </modules>
+  </component>
+</project>

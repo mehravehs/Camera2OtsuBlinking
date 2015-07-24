@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-c1c81c105451dac8e5f849370f218e2727773df1.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-f1e5dd1297e641c79a2537cd698f9c228e530d19.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/pre-dexed/debug/classes-a54a44dfcc2ae0f7bceabfa65be0842f0e33d3a5.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/pngj-2.1.1/pngj-2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3109f6180c7a0717845e3cbf0c7a10f98a91d902">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/pre-dexed/debug/pngj-2.1.1-ad5796e79c97ecdfada6b4182c92f9cbc4ff523d.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-58d9f9b05ff721ad67e2f542ea9834ae1ca4771f.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-c29d19595946dfd194df7a420cdef7ec34cc0a2b.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-755e9634872a52ed7363d06e3aca2a7da441a5cf.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-5ee397cc24e769e0b522c15f9ec01b3a4c898ed5.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/pre-dexed/debug/classes-310ca0b8a5f8597602baccb654c52001faad5a4e.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b1a1552a9c5840d4a6f53bcf4f0b96e20f82face.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic/pngj-2.1.1/pngj-2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3109f6180c7a0717845e3cbf0c7a10f98a91d902">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/pre-dexed/debug/pngj-2.1.1-68b98cde80f44ff2eb57382a1c77983d19880a85.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic Blinking/Application/build/intermediates/pre-dexed/debug/classes-4273646acdcf87fcb8a853e9421c9011b18bf54c.jar" />
+    </item>
+    <item
+        jar="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/Mehraveh/Desktop/Android/Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-285d5807bd6bdd514474a4a625085cc052eb7bce.jar" />
+    </item>
+
+</items>
